@@ -1,4 +1,4 @@
-import math as m
+import math as can
 
-print(m.pi)
-print(m.e)
+print(can.pi)
+print(can.e)
